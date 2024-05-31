@@ -1,0 +1,44 @@
+---------------------------------------------------
+Testing Problem 1, Homework 5
+
+This is pretty basic test code. Feel free to add more
+test code to demonstrate that your PokerHand class 
+implementation works correctly!
+---------------------------------------------------
+Standard Deck: C2 C3 C4 C5 C6 C7 C8 C9 C10 CJ CQ CK CA D2 D3 D4 D5 D6 D7 D8 D9 D10 DJ DQ DK DA H2 H3 H4 H5 H6 H7 H8 H9 H10 HJ HQ HK HA S2 S3 S4 S5 S6 S7 S8 S9 S10 SJ SQ SK SA
+Dealing 5 cards.....
+Sorted Hand: C2 C3 C4 C5 C6
+Best Rank: Straight Flush
+
+A straight flush is no surprise since we didn't shuffle the deck yet!
+We will shuffle the deck once and deal a few more hands....
+
+Shuffled Deck: DK H5 S5 H9 SK D7 D4 SA DJ H6 S4 H7 SJ CA H3 CK C7 D10 H2 HA S3 D8 C10 CJ H10 S2 S7 CQ C8 HJ S9 D3 S10 D6 S8 D2 H8 D5 HK D9 HQ H4 DQ C9 DA SQ S6
+
+Dealing 5 cards.....
+Sorted Hand: DK H5 H9 S5 SK
+Best Rank: Two Pair
+
+Dealing 5 cards.....
+Sorted Hand: D4 D7 DJ H6 SA
+Best Rank: High Card
+
+Dealing 5 cards.....
+Sorted Hand: CA H3 H7 S4 SJ
+Best Rank: High Card
+
+Shuffling the deck again....
+Shuffled Deck: S7 C7 D3 CJ S9 H8 C8 H10 D10 CK DA DQ HA D8 CQ S3 HK D9 S2 S10 C9 H2 SQ S6 HJ C10 HQ S8 D2 D6 H4 D5
+
+Dealing 5 cards.....
+Sorted Hand: C7 CJ D3 S7 S9
+Best Rank: One Pair
+
+Dealing 5 cards.....
+Sorted Hand: C8 CK D10 H8 H10
+Best Rank: Two Pair
+
+Dealing 5 cards.....
+Sorted Hand: CQ D8 DQ DA HA
+Best Rank: Two Pair
+
